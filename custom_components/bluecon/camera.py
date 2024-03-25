@@ -17,7 +17,9 @@ async def async_setup_entry(hass, config, async_add_entities):
     for pairing in pairings:
         deviceInfo = await bluecon.getDeviceInfo(pairing.deviceId)
         if deviceInfo.photoCaller:
-            image = await bluecon.getLastPicture(pairing.deviceId)
+            image = bluecon.getLastPicture(pairing.deviceId)
+            if image is None:
+                image = "https://brands.home-assistant.io/brands/_/bluecon/icon.png"
             cameras.append(
                 BlueConStillCamera(
                     bluecon,
@@ -26,6 +28,8 @@ async def async_setup_entry(hass, config, async_add_entities):
                     deviceInfo
                 )
             )
+    
+    async_add_entities(cameras)
     
     async_add_entities(cameras)
 
