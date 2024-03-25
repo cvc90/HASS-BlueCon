@@ -1,0 +1,47 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Regístrate con tu cuenta Fermax Blue",
+        "data": {
+          "username": "Nombre de usuario",
+          "password": "Contraseña"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Autenticación no válida"
+    },
+    "abort": {
+      "already_configured": "La cuenta ya está configurada"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configuración de integración",
+        "data": {
+          "lockStateReset": "Temporizador de reinicio del estado de bloqueo"
+        },
+        "description": "Es hora de restablecer el bloqueo a bloqueado una vez que se desbloquea, en segundos."
+      }
+    },
+    "error": {
+      "negative_value": "El valor debe ser un número positivo."
+    }
+  },
+  "entity": {
+      "sensor": {
+          "wifi-state": {
+              "state": {
+                  "terrible": "Horrible",
+                  "bad": "Mala",
+                  "weak": "Débil",
+                  "good": "Buena",
+                  "excelent": "Excelente",
+                  "unknown": "Desconocida"
+              }
+          }
+      }
+  }
+}
