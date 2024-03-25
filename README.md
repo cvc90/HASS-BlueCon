@@ -34,11 +34,13 @@ This script was tested on a Fermax VEO-XS WIFI 4,3" DUOX PLUS (REF: 9449)
 
 ## 📑 Minimum System Requirements
 
+- [Home Assistant 2023.2.0](https://www.home-assistant.io/installation/)
 - [Python3](https://www.python.org/downloads/)
 
 ## 📑 Recommended System Requirements
 
-- [Python3.11](https://www.python.org/downloads/)
+- [Home Assistant 2024.3.3](https://www.home-assistant.io/installation/)
+- [Python3.12](https://www.python.org/downloads/)
 
 ## 🏴 Translations of this file
 
@@ -61,4 +63,3 @@ Feel free to donate whatever you want to the following addresses:
 
 ## 📑 License
   AGPL 3.0 | [Read more here](LICENSE.md) | Source of the [animated GIF (Loading Animation)](https://commons.wikimedia.org/wiki/File:Loading_Animation.gif) | Source of the [selfhosted Fonts](https://github.com/adobe-fonts/source-sans)
-
