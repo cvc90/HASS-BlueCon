@@ -34,10 +34,12 @@ Este script fue probado en un Fermax VEO-XS WIFI 4,3" DUOX PLUS (REF: 9449)
 
 ## 📑 Requisitos mínimos del sistema
 
+- [Home Assistant 2023.2.0](https://www.home-assistant.io/installation/)
 - [Python3](https://www.python.org/downloads/)
 
 ## 📑 Requisitos del sistema recomendados
 
+- [Home Assistant 2024.3.3](https://www.home-assistant.io/installation/)
 - [Python3.11](https://www.python.org/downloads/)
 
 ## 🏴 Traducciones de este archivo
