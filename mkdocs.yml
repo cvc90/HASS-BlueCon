@@ -1,7 +1,7 @@
 site_name: BlueCon Home Assistant Integration
 site_url_original: https://hass-bluecon.afonsogarcia.dev/
 repo_url_original: https://github.com/AfonsoFGarcia/hass-bluecon
-repo_url_fork: https://github.com/cvc90/hass-bluecon
+repo_url_fork: https://github.com/cvc90/HASS-BlueCon
 
 theme: 
   name: readthedocs
