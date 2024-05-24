@@ -1,7 +1,7 @@
 # HASS-BlueCon
 
 <a href="#" style="text-align: center;">
- <img src="https://github.com/cvc90/hass-bluecon/assets/76731844/dc460880-db59-461e-97d4-03d528586543" width="15%" height="15%" alt="Fermax Blue" text-align="center" margin="0 0 0 0">
+ <img src="https://github.com/cvc90/HASS-BlueCon/assets/76731844/dc460880-db59-461e-97d4-03d528586543" width="15%" height="15%" alt="Fermax Blue" text-align="center" margin="0 0 0 0">
 </a>
 
 ## 📑 Descripción
@@ -12,13 +12,13 @@ HASS-BlueCon para conectar con la API (Mostrar información del usuario, Mostrar
 
 En construcción
 
-## Añadir hass-bluecon a Home Assistant
+## Añadir HASS-BlueCon a Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
-[![Install repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=cvc90&repository=hass-bluecon&category=integration)
+[![Install repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=cvc90&repository=HASS-BlueCon&category=integration)
 
-[![Add Integration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start?domain=hass-bluecon)
+[![Add Integration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start?domain=HASS-BlueCon)
 
 ## Ejemplos
 
